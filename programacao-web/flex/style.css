@@ -1,0 +1,17 @@
+.caixa{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.bloco{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(45deg, #f1c40f, #2980b9) ;
+}
+
+.centrao{
+    display: flex;
+    justify-content: center;   
+    align-items: center; 
+}
