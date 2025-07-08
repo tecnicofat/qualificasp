@@ -1,0 +1,16 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(45deg, #c0392b55, #2980b955);
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.quadrado-maior{
+    width: 300px;
+    height: 300px;
+    border: solid 2px crimson;
+    position: relative;
+}
+

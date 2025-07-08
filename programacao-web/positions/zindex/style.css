@@ -1,0 +1,21 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+ 
+.c1{background: #e74c3c;}
+.c2{background: #f1c40f;}
+.c3{background: #3498db;}
+.c4{background: #dc143c;}
+
+.p1{  top: 0px; left: 0px; }
+.p2{  top: 10px; left: 10px; }
+.p3{  top: 20px; left: 20px; }
+.p4{  top: 30px; left: 30px; }
+
+.o1{ z-index: 1; }
+.o2{ z-index: 2; }
+.o3{ z-index: 3; }
+.o4{ z-index: 4; }
+
