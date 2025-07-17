@@ -1,6 +1,3 @@
-Raiz exemplo<br>
-https://tecnicofat.github.io/qualificasp/
-
 # Padaria
 <img width="100" src='https://tecnicofat.github.io/qualificasp/programacao-web/padaria_pessoas_medium/1x1/2.png'>
 https://tecnicofat.github.io/qualificasp/programacao-web/padaria_pessoas_medium/1x1/1.png <br>
