@@ -15,7 +15,7 @@ https://tecnicofat.github.io/qualificasp/mobile/headset/headset_10.png <br>
 https://github.com/tecnicofat/qualificasp/tree/main/mobile/headset <br>
 https://github.com/tecnicofat/qualificasp/blob/main/mobile/headset/headset.zip <br>
 
-# Headset
+# Mouse
 <img width="100" src='https://tecnicofat.github.io/qualificasp/mobile/mouse/mouse_10.png'><br>
 https://tecnicofat.github.io/qualificasp/mobile/headset/headset_10.png <br>
 https://github.com/tecnicofat/qualificasp/tree/main/mobile/mouse <br>
